@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KeltonForeman
+- 👀 I’m interested in data analytics, learning about CS, and finding my way in the professional analytical world!
+- 🌱 I’m currently learning Business Technology and Analytics at Portland State University
